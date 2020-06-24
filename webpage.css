@@ -1,0 +1,63 @@
+head {
+    background-image: url("sfbkgrd.jpg");
+    background-size: cover;
+  }
+
+
+header .mainimg {
+    margin-top: 30px;
+    border-radius: 50%;
+    border: 3px solid black;
+    transition: all .5s;
+}
+
+
+h1 {
+    color: grey;
+    background-color: whitesmoke;
+    border: solid black 3px;
+    border-radius: 5px;
+    padding: 20px;
+    text-align: center;
+}
+.intro {
+    font-family: fantasy;
+    text-align: center;
+    color: whitesmoke;
+}
+h2 {
+    color: whitesmoke;
+    background-color: black;
+    padding: 5px;
+}
+
+
+h3 {
+    color:whitesmoke;
+    background-color: rgb(83, 82, 82);
+    margin: 0;
+    padding: 3px;
+}
+section {
+    background-color: rgb(218, 214, 214);
+}
+
+.socialmedialinks {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+    vertical-align: auto;
+    background-color: black;
+    color: whitesmoke;
+    display: block
+  }
+  body {
+    background-image: url("glitter.jpg");
+  }
+  .food {
+    margin: 0;
+    padding: none;
+
+  }
+
+
